@@ -15,4 +15,5 @@ For now, this plugin only supports exposing soil moisture sensors, if there's de
 After adding the plugin, you'll need to enter your Ecowitt gateway's hostname or IP address as a URL (ex: http://192.168.0.137)
 
 I've been using the plugin to add soil moisture sensors to Homekit to monitor plants in our landscaping:
+![homekit integration](https://github.com/WVandergrift/ecowitt-soil-moisture/blob/main/assets/homekit-01.jpg "Homekit Integration")
 
