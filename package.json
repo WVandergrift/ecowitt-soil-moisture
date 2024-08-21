@@ -1,7 +1,7 @@
 {
    "name": "@wvandergrift/ecowitt-soil-moisture",
-   "version": "0.0.2",
-   "description": "Ecowitt Soil Moisture Sensor Plugin",
+   "version": "0.0.3",
+   "description": "Ecowitt Soil Moisture Plugin",
    "author": "Will Vandergrift",
    "license": "Apache",
    "scripts": {
@@ -27,7 +27,7 @@
       "moisture"
    ],
    "scrypted": {
-      "name": "Ecowitt Soil Moisture Sensors",
+      "name": "Ecowitt Soil Moisture Plugin",
       "type": "DeviceProvider",
       "interfaces": [
          "DeviceProvider",
