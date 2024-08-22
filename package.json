@@ -26,6 +26,10 @@
       "soil",
       "moisture"
    ],
+   "repository": {
+   "type": "git",
+   "url": "https://github.com/WVandergrift/ecowitt-soil-moisture"
+   },
    "scrypted": {
       "name": "Ecowitt Soil Moisture Plugin",
       "type": "DeviceProvider",
