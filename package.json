@@ -1,6 +1,6 @@
 {
    "name": "@wvandergrift/ecowitt-soil-moisture",
-   "version": "0.0.3",
+   "version": "0.0.4",
    "description": "Ecowitt Soil Moisture Plugin",
    "author": "Will Vandergrift",
    "license": "Apache",
